@@ -2,6 +2,10 @@
 
 一个轻量的 macOS 菜单栏工具，抬眼就能看到 Codex 还剩多少额度。
 
+**[下载 macOS App · v0.1.0 预览版](https://github.com/kale2222/CodexUsage/releases/download/v0.1.0/CodexUsage-0.1.0-macOS-arm64.zip)**
+
+[版本说明与所有下载](https://github.com/kale2222/CodexUsage/releases) · [问题反馈](https://github.com/kale2222/CodexUsage/issues)
+
 - 五小时限额：`5h 72% · 22:29`
 - 仅周限额：`7d 86%`
 
@@ -25,7 +29,9 @@
 
 ## 下载与安装
 
-安装包将通过本仓库的 **Releases** 页面提供；首次发布前暂无公开下载。
+从上方链接直接下载安装包，或在 [Releases](https://github.com/kale2222/CodexUsage/releases/tag/v0.1.0) 的附件中选择 **`CodexUsage-0.1.0-macOS-arm64.zip`**。
+
+请不要下载 GitHub 自动生成的 `Source code (zip)` 或使用“Code → Download ZIP”；它们仅包含仓库中的说明文件，不包含 App。
 
 1. 下载 macOS arm64 的 App 压缩包，解压得到 `CodexUsage.app`。
 2. 将 App 拖入“应用程序”文件夹并打开。
