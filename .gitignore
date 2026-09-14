@@ -1,0 +1,6 @@
+# 白名单：公开仓库只保存使用说明和本规则。
+/*
+!/.gitignore
+!/README.md
+
+# App 压缩包作为 GitHub Releases 附件，不进入 Git 历史。
