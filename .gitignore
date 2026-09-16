@@ -1,6 +1,12 @@
-# 白名单：公开仓库只保存使用说明和本规则。
+# 白名单：公开仓库只保存使用说明、本规则和指定的界面截图。
 /*
 !/.gitignore
 !/README.md
+!/screenshots/
+/screenshots/*
+!/screenshots/app-icon.png
+!/screenshots/menu.png
+!/screenshots/weekly.png
+!/screenshots/dual.png
 
 # App 压缩包作为 GitHub Releases 附件，不进入 Git 历史。
